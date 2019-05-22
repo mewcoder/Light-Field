@@ -12,6 +12,8 @@
 - [LFToolbox0.4官方使用文档说明](https://blog.csdn.net/weixin_40758748/article/details/86671794)
 - [光场相机原理及仿真实现](https://blog.csdn.net/endlch/article/details/44539055)
 - [光场相机模拟程序解读](https://blog.csdn.net/weixin_40758748/article/details/86791866)
+- [LFtoolBox0.4工具包解码Lytro光场图像及子孔径图像获取](https://blog.csdn.net/weixin_38285131/article/details/80500682)
+
 
 ## Github整理
 
