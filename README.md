@@ -9,6 +9,7 @@
 - [Lytro光场相机实现重对焦C++语言实现](https://gitee.com/rxdj/refocus_LightFieldImg)
 - [Light Field Depth Estimation](https://www.vincentqin.tech/posts/light-field-depth-estimation/)
 - [Light Field 光场以及MATLAB光场工具包(LightField ToolBox)的使用说明](https://www.vincentqin.tech/posts/LightField-Toolbox/)
+- [LFToolbox0.4官方使用文档说明](https://blog.csdn.net/weixin_40758748/article/details/86671794)
 
 
 ## Github整理
