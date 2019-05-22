@@ -13,7 +13,7 @@
 - [光场相机原理及仿真实现](https://blog.csdn.net/endlch/article/details/44539055)
 - [光场相机模拟程序解读](https://blog.csdn.net/weixin_40758748/article/details/86791866)
 - [LFtoolBox0.4工具包解码Lytro光场图像及子孔径图像获取](https://blog.csdn.net/weixin_38285131/article/details/80500682)
-
+- [光场相机是如何实现的？](https://www.zhihu.com/question/20511442?sort=created)
 
 ## Github整理
 
