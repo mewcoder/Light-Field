@@ -24,3 +24,4 @@
 - [Depth from Combining Defocus and Correspondence](https://github.com/Vincentqyw/depth-from-defocus-and-correspondence)
 - [Light-Field-Refocusing](https://github.com/Vincentqyw/Light-Field-Refocusing)
 - [光场相机成像模拟](https://github.com/muzichao/Light-field-camera)
+- [Light Field Resources](https://github.com/lightfield-analysis/resources)
