@@ -10,7 +10,8 @@
 - [Light Field Depth Estimation](https://www.vincentqin.tech/posts/light-field-depth-estimation/)
 - [Light Field 光场以及MATLAB光场工具包(LightField ToolBox)的使用说明](https://www.vincentqin.tech/posts/LightField-Toolbox/)
 - [LFToolbox0.4官方使用文档说明](https://blog.csdn.net/weixin_40758748/article/details/86671794)
-
+- [光场相机原理及仿真实现](https://blog.csdn.net/endlch/article/details/44539055)
+- [光场相机模拟程序解读](https://blog.csdn.net/weixin_40758748/article/details/86791866)
 
 ## Github整理
 
@@ -19,3 +20,4 @@
 - [collects some depth estimation algorithms using light field](https://github.com/Vincentqyw/Depth-Estimation-Light-Field)
 - [Depth from Combining Defocus and Correspondence](https://github.com/Vincentqyw/depth-from-defocus-and-correspondence)
 - [Light-Field-Refocusing](https://github.com/Vincentqyw/Light-Field-Refocusing)
+- [光场相机成像模拟](https://github.com/muzichao/Light-field-camera)
