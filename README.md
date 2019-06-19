@@ -16,7 +16,7 @@
 - [光场相机是如何实现的？](https://www.zhihu.com/question/20511442?sort=created)
 - [光场相机原理](https://zxr12748.github.io/2015/10/26/light-field/)
 - [光场相机数据二次开发基础-使用LFtoolbox解码lfp文件](https://zhuanlan.zhihu.com/p/58761852)
-- [光场资料收集](https://blog.csdn.net/u011545186/article/details/83143174)[](https://www.vincentqin.tech/collections/)
+- [光场资料收集](https://www.vincentqin.tech/collections/)
 - [自建光场平台获取的白图像处理&微透镜中心标定](https://blog.csdn.net/qq_37888904/article/details/89206425)
 
 ## Github整理
